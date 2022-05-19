@@ -1,12 +1,12 @@
 {
-  "name": "bts420-url",
-  "description": "lk",
+  "name": "Web-Three-Point-Zero",
+  "description": "web",
   "logo": "",
   "keywords": [
-    "leech"
+    "web"
   ],
   "repository": "",
-  "success_url": "https://helloiamjahid.cf",
+  "success_url": "https://helloiamjahid.cf/",
   "website": "",
   "env": {
     "ENV": {
@@ -23,11 +23,11 @@
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": "5302377568:AAH-Y2pHLOkibqoEPvzwVGVnn_f4-zNxlPQ"
+      "value": "5231022696:AAHTj6w5lm_3LTf7fJChfKJKXCAXzRgj-Ys"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work., Put Group ID",
-      "value": "-1001701546725"
+      "value": "-1001590463530"
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
@@ -49,7 +49,7 @@
     },
     "EDIT_SLEEP_TIME_OUT": {
       "description": "should be an integer. Number of seconds to wait before editing a message.",
-      "value": "1",
+      "value": "5",
       "required": false
     },
     "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": {
@@ -85,7 +85,7 @@
     },
     "INDEX_LINK": {
       "description": "Enter your index link:",
-      "value": "https://bts420-bot.helloiamjahid.workers.dev/0:",
+      "value": "https://web-three-point-zero.helloiamjahid.workers.dev/0:",
       "required": false
     },
     "RENEWME_COMMAND": {
