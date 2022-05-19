@@ -23,7 +23,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": "5231022696:AAHTj6w5lm_3LTf7fJChfKJKXCAXzRgj-Ys"
+      "value": "5397181099:AAFpQHHyUTQrTttbG730PyTuzz707pQ08sg"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work., Put Group ID",
