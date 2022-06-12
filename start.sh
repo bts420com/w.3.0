@@ -20,6 +20,6 @@ fi
 
 
 
-echo "Starting Your Bot... 👾👾"
+echo "Starting Your Bot..."
 python3 -m tobrot
 
