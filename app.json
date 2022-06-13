@@ -1,5 +1,5 @@
 {
-  "name": "w30",
+  "name": "w.3.0",
   "website": "",
   "env": {
     "ENV": {
@@ -42,7 +42,7 @@
     },
     "EDIT_SLEEP_TIME_OUT": {
       "description": "should be an integer. Number of seconds to wait before editing a message.",
-      "value": "1",
+      "value": "2",
       "required": false
     },
     "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": {
